@@ -1,0 +1,82 @@
+body {
+  
+}
+
+h1{
+    text-align: center;
+    
+    font-family: sans-serif;
+    
+    padding: 5px;
+    color: black;
+}
+    
+    
+h2,p{
+    text-align: center;
+    color:darkblue;
+    font-family: fantasy;
+}
+
+body{
+    
+    
+    
+}
+
+
+
+.down{
+    background-color: black;
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 15px;
+    text-align: center;
+}
+    
+img{
+    
+    margin: 50px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+    border: solid 10px;
+}
+    
+.detail{
+
+    margin-left: auto;
+    margin-right: auto;
+    background-color:
+}
+
+    
+h3{
+    text-align: center;
+}
+    
+button {
+  
+  color: black;
+  padding: 10px 20px;
+  
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+        button{
+  background-color: hotpink;
+  color: black;
+  border: 10px solid #04AA6D;
+}
+
+button:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+ 
+    
+    
+ 
